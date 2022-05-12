@@ -22,7 +22,7 @@ The app is integrated with Firebase for authentication and uses Cocoapods. It al
 First, you need to clone this repository, in order to fetch the code
 
 ```
-$ git clone https://github.com/ngoert/TeamLima.git
+$ git clone https://github.com/fjaffriOSU/sharest_fj_project.git
 ```
 
 In order to compile your code, you need to install the dependencies first. We use Cocoapods in our project so you need to install it.  
